@@ -1,3 +1,5 @@
+#This script is made for Ubuntu 18.04. thats the version I tested the script on. Feel free to take it for a spin and setup your own wazuh server with 1 click.
+
 #adding to Repo
 apt install gnupg apt-transport-https
 curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | apt-key add -
